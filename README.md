@@ -12,7 +12,10 @@
 - 👨‍🎓 Studied Computer Science at Simon Fraser University, Canada  
   
 
-- ❓ Ask me about anything related to Data Visualization and related technologies  
+- ❓ Ask me about anything related to Data Visualization and related technologies
+
+
+- 📫 How to reach me **thomaslui98@gmail.com**
   
 
 - ⚡ Fun fact: I use tabs over spaces  
