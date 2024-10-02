@@ -6,13 +6,13 @@
 ### <div align="center">👋 Hi, I'm Thomas!</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on ...
   
 
 - 👨‍🎓 Studied Computer Science at Simon Fraser University, Canada  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Data Visualization and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
