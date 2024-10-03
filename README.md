@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thomaslui003?tab=repositories](https://github.com/thomaslui003?tab=repositories)
 
