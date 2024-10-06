@@ -6,7 +6,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="42px" height="42px"></img> Hi, I'm Thomas!</h1>
 <h3 align="center">A passionate software developer from Vancouver BC</h3>
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on **a Full-Stack React SpringBoot Project with AWS s3 file uploading features**
 
 - 🌱 I’m currently learning **Spring Boot**
 
