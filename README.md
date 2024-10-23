@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a Full-Stack React SpringBoot Project with AWS s3 file uploading features**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **AWS S3 & Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thomaslui003?tab=repositories](https://github.com/thomaslui003?tab=repositories)
 
