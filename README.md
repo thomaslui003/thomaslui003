@@ -14,7 +14,7 @@
 
 - 📫 Reach me at this [**Email**](mailto:thomaslui98@gmail.com)
 
-- 📄 Know about my experiences [...](...)
+- 📄 Know about my experiences [**Here**](https://docs.google.com/document/d/1EU22GB_LSRSSfQit2FDUFHACW8ikzc2KkCnN7ACTNh8/edit?usp=sharing)
 
 
 <h3 align="center">Connect with me:</h3>
