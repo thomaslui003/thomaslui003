@@ -129,9 +129,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomaslui003&show_icons=true&locale=en&layout=compact" alt="thomaslui003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomaslui003&show_icons=true&locale=en" alt="thomaslui003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomaslui003&" alt="thomaslui003" /></p>
+
+
 
 
 
