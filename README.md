@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **AWS S3 & Spring Boot**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/thomaslui003?tab=repositories)
+- 👨‍💻 All of my projects are available at [**Here**](https://github.com/thomaslui003?tab=repositories)
 
-- 📫 How to reach me **thomaslui98@gmail.com**
+- 📫 Reach me at this [**Email**](mailto:thomaslui98@gmail.com)
 
 - 📄 Know about my experiences [...](...)
 
